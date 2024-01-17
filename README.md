@@ -1,3 +1,9 @@
+### npm install
+npm install react-native-vector-icons
+npm install -D @types/react-native-vector-icons
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
